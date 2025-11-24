@@ -4,3 +4,7 @@ My name is Juliet Wanjiru Kihumba I am Software Engineer nd i love building apps
 - Understand Git & GitHub fundamentals  
 - Learn Python and Django  
 - Build and deploy a real-world project 
+## Favorite Tech Tools
+- VS Code
+- Git & GitHub
+- Linux Terminal
